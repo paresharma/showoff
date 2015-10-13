@@ -2,23 +2,18 @@
 
 # Acceptance testing
 
-using Capybara, rspec, Phantomjs(poltergeist)
+### Capybara, Rspec, Phantomjs (Poltergeist) ###
+### and ###
+### *Java* ###
 
-
-!SLIDE execute transition=fade
+!SLIDE transition=fade
 
 # Capybara
 
 Capybara helps you test web applications by simulating how a real user would interact with your app.
 
-* Provides neat DSL to interact the web pages
-* visit ‘/’
-* click_on ‘A link’
-* find(‘A css’)
-* Great driver support, comes with selenium by default. We will use poltergeist(PhantomJs driver).
+Provides neat DSL to interact the web pages
 
-Capybara waits for dom element to be loaded
+Great driver support, comes with selenium by default. We will use poltergeist(PhantomJs driver).
 
-    @@@Ruby
-    gem 'showoff'
-
+Capybara waits for DOM to be loaded
