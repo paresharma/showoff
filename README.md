@@ -12,7 +12,7 @@ $ showoff serve
 
 By default, the server runs at http://localhost:9090.
 
-This presentation is build with [showoff](https://github.com/puppetlabs/showoff).
+This presentation is totally a [showoff](https://github.com/puppetlabs/showoff).
 
 ### License
 
