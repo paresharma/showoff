@@ -48,6 +48,30 @@ https://github.com/rprt/rspec-page-regression/tree/v1.0
 https://github.com/paresharma/rspec_java
 
 
+
+!SLIDE transition=fade
+
+Some links
+
+https://github.com/jnicklas/capybara
+
+https://relishapp.com/rspec/rspec-core/docs
+
+http://www.rubydoc.info/github/jnicklas/capybara#The_DSL
+
+https://www.relishapp.com/rspec/rspec-rails/docs/feature-specs/feature-spec
+
+https://upcase.com/test-driven-rails-resources/rspec_acceptance.pdf
+
+http://phantomjs.org/
+
+https://github.com/teampoltergeist/poltergeist
+
+And, for the presentation
+
+https://github.com/puppetlabs/showoff
+
+
 !SLIDE transition=fade
 
 ### That's it. ###
