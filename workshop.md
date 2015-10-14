@@ -87,9 +87,11 @@ Some more
       fill_in 'Name', :with => 'Jimmy'
     end
 
-    find('#navigation').click_link('Home')u
+    find('#navigation').click_link('Home')
 
 And a lot more...
+
+http://www.rubydoc.info/github/jnicklas/capybara#The_DSL
 
 
 !SLIDE transition=fade
@@ -127,7 +129,7 @@ Just like a Chrome or a Firefox, only you don't see what you're browsing
 
 **But** PhantomJS best practice says:
 
-### Writing raw PhantomJS script is not everyone's cup of tea ###
+### "Writing raw PhantomJS script is not everyone's cup of tea." ###
 
 http://phantomjs.org/best-practices.html
 
