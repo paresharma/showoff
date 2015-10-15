@@ -37,6 +37,9 @@ https://github.com/rprt/rspec-page-regression/tree/v1.0
       git: 'https://github.com/rprt/rspec-page-regression.git',
       branch: 'v1.0'
 
+    # in java_helper.rb
+    require 'rspec/page-regression'
+
     # in your feature specs
     expect(page).to match_reference_screenshot
 
