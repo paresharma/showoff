@@ -48,7 +48,7 @@ https://github.com/rprt/rspec-page-regression/tree/v1.0
 
 # Skip all the setup with
 
-https://github.com/paresharma/rspec_java
+https://github.com/paresharma/rspec-manumit
 
 
 
