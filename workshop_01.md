@@ -40,7 +40,7 @@ The feature and scenario DSL correspond to describe and it
 
 # Enough talk, let's DO
 
-Clone this repo https://github.com/bring/TestingDemoWeb
+Clone this repo https://github.com/paresharma/SpringWebDemo
 
 And follow the README to get started
 
