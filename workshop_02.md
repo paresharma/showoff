@@ -20,11 +20,6 @@ And, run the tests
 
 !SLIDE transition=fade
 
-# Let's try with some actual app, say, Booking
-
-
-!SLIDE transition=fade
-
 # rspec-page-regression
 
 Introducing rspec-page-regression
