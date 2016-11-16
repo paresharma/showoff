@@ -4,7 +4,10 @@
 
 Hope you have `Firefox` installed
 
-    @@@ruby
+    # Starting Firefox 48, and Selenium 3.x.x, geckodriver is required
+    # https://developer.mozilla.org/en-US/docs/Mozilla/QA/Marionette/WebDriver
+    brew install geckodriver
+
     # in your Gemfile, add
     gem 'selenium-webdriver'
     # then run bundle install
@@ -28,6 +31,7 @@ https://github.com/rprt/rspec-page-regression/tree/v1.0
 
     @@@ruby
     #Gemfile
+    gem 'activesupport', '~> 4.2'
     gem 'rspec-page-regression',
       git: 'https://github.com/rprt/rspec-page-regression.git',
       branch: 'v1.0'
@@ -37,14 +41,6 @@ https://github.com/rprt/rspec-page-regression/tree/v1.0
 
     # in your feature specs
     expect(page).to match_reference_screenshot
-
-
-!SLIDE transition=fade
-
-# Skip all the setup with
-
-https://github.com/paresharma/rspec-manumit
-
 
 
 !SLIDE transition=fade

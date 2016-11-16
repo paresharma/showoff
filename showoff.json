@@ -1,0 +1,9 @@
+{
+  "name": "Acceptance Testing",
+  "description": "BOS Engineer Meeting",
+  "sections": [
+    "workshop.md",
+    "workshop_01.md",
+    "workshop_02.md"
+  ]
+}

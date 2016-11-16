@@ -11,7 +11,7 @@
 
 # Agenda
 
-### Acceptance testing of Java apps
+### Acceptance testing 101
 
 We will use `Capybara` to interact with our apps
 
